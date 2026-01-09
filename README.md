@@ -6,6 +6,8 @@ Run just for viewing purposes, not production ready because it uses an old API f
 
 # AirSpotl — Docker
 
+![AirSpotl promo](slike/promo.png)
+
 Build the Docker image:
 
 ```bash
